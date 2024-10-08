@@ -12,11 +12,11 @@ This project has been a great opportunity to solidify my understanding of HTML a
 Can’t wait to continue building and learning more about HTML, CSS, and web design!
 
 ## 🌟 Live Demo
-Visit the Website (Link to the live site or deployment platform)
+Visit the Website : https://nexus-project1.netlify.app/
 
 ## 🛠️ Features:
 
-Multi-Page Navigation: Connected multiple pages using <nav> for seamless browsing.
+Multi-Page Navigation: Connected multiple pages using ``` <nav> ``` for seamless browsing.
 
 ## Connections
 
