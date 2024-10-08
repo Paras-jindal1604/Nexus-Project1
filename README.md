@@ -11,14 +11,14 @@ These elements help in making the website more accessible and well-organized.
 This project has been a great opportunity to solidify my understanding of HTML and its practical applications.
 Can’t wait to continue building and learning more about HTML, CSS, and web design!
 
-##🌟 Live Demo
+## 🌟 Live Demo
 Visit the Website (Link to the live site or deployment platform)
 
-##🛠️ Features:
+## 🛠️ Features:
 
 Multi-Page Navigation: Connected multiple pages using <nav> for seamless browsing.
 
-##Connections
+## Connections
 
 Stay tuned for more updates!
 Feel free to explore the repository and check out the live demo!
